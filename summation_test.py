@@ -1,4 +1,4 @@
 import summation
 
 def test_summation():
-  assert summation.func(4) == 6
+  assert summation.func(x) == 6
